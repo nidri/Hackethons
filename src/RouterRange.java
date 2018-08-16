@@ -1,3 +1,7 @@
+/* Finds the router range. Hacker Earth problem - 
+ * https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/wifi-routers/
+ */
+
 import java.util.List;
 import java.util.ArrayList;
 import java.text.DecimalFormat;
